@@ -1,0 +1,10 @@
+08:20	30	Breakfast with Maggie
+09:00	30	Go to laundry shop
+12:00	50	Lunch
+10:00	15	Phone-demo 1
+14:15	15	Phone-demo 2
+18:00	15	Phone-demo 3
+15:00	60	Swim
+19:00	45	Dinner at home
+20:00	90	Movie
+23:30	45	Long-distance call

@@ -1,0 +1,7 @@
+09:70	30	Go to laundry shop
+25:00	60	Swim
+20:00	90	Movie
+23:30	45	Long-distance call
+08:20	30	Breakfast with Maggie
+12:00	50	Lunch
+19:00	45	Dinner at home
